@@ -1,0 +1,8 @@
+.DS_Store
+*.o
+*.dSYM/
+
+# binaries produced by `make` inside code/
+code/*
+!code/*.c
+!code/Makefile
